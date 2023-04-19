@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.sheryians.major.MajorApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 112.654 s - in com.sheryians.major.MajorApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 40.024 s - in com.sheryians.major.MajorApplicationTests
