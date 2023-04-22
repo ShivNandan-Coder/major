@@ -9,6 +9,10 @@ insert into user_role(user_id, role_id) values
 (1,1),
 (1,2);
 
+
+insert into category (category_id,name) values(1,'Laptop');
+insert into product(id,description,image_name,name,price,weight,category_id) values(1,'Macbook Air M1','apple.jpg','Macbook Air M1',200000.0,1200.0,1);
+
 H2-database
 useradmin:admin@gmail.com
 passadmin:12345
